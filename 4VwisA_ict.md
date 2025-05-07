@@ -4,7 +4,7 @@ In deze opdracht ga je oefenen met drie manieren om naar data te kijken: gemidde
 
 ---
 
-### 💶 Zakgeld in de klas
+### 💶 1. Zakgeld in de klas
 
 |Leerlingen|Zakgeld (in euro)|
 |------------|---------|
